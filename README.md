@@ -10,4 +10,4 @@ Final Yr. Project B Tech CSE. Simple wireless scanner built using Scapy Library.
 
 
 
-Full paper can be found here : http://www.ijmra.us/2013ijesr_december.php
+Full paper can be found here : http://www.academia.edu/5303036/Implementation_Detection_of_Fake_Access_Points_in_Open_Wireless_Networks
