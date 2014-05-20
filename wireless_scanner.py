@@ -5,7 +5,7 @@
 #author rahil sharma
 # date 15/3/2013   @rs
 #usage python rs.py mon0
-
+#where mon0 is your
 import sys, os, signal 
 from multiprocessing import Process
 
