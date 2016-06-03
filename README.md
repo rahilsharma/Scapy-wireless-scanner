@@ -5,7 +5,7 @@ Final Yr. Project B Tech CSE. Simple wireless scanner built using Scapy Library.
 !/usr/bin/env python
  rs.py - Wireless AP scanner 
 author rahil sharma
- date 15/3/2013   @rs
+ date 15/3/2013   @rahilsharma
 #usage 
 python rs.py mon0
 where mon0 is our interface.
